@@ -6,7 +6,7 @@ package snake;
 
 /**
  *
- * @ author Martyna
+ * @author Martyna
  */
 
 import java.awt.Color;
